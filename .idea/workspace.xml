@@ -1,5 +1,321 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="927a912b-be98-4705-b076-7368349c8606" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logcollector.iml" beforeDir="false" afterPath="$PROJECT_DIR$/logcollector.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1233936413">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="15" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="16" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppLoading.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+              <folding>
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#810#811#0" expanded="true" />
+                <element signature="e#848#849#0" expanded="true" />
+                <element signature="e#882#883#0" expanded="true" />
+                <element signature="e#936#937#0" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
+                <element signature="e#1016#1017#0" expanded="true" />
+                <element signature="e#1046#1047#0" expanded="true" />
+                <element signature="e#1092#1093#0" expanded="true" />
+                <element signature="e#1130#1131#0" expanded="true" />
+                <element signature="e#1164#1165#0" expanded="true" />
+                <element signature="e#1194#1195#0" expanded="true" />
+                <element signature="e#1240#1241#0" expanded="true" />
+                <element signature="e#1278#1279#0" expanded="true" />
+                <element signature="e#1309#1310#0" expanded="true" />
+                <element signature="e#1336#1337#0" expanded="true" />
+                <element signature="e#1376#1377#0" expanded="true" />
+                <element signature="e#1408#1409#0" expanded="true" />
+                <element signature="e#1440#1441#0" expanded="true" />
+                <element signature="e#1468#1469#0" expanded="true" />
+                <element signature="e#1510#1511#0" expanded="true" />
+                <element signature="e#1544#1545#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppAd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+              <folding>
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
+                <element signature="e#841#842#0" expanded="true" />
+                <element signature="e#870#871#0" expanded="true" />
+                <element signature="e#914#915#0" expanded="true" />
+                <element signature="e#950#951#0" expanded="true" />
+                <element signature="e#984#985#0" expanded="true" />
+                <element signature="e#1014#1015#0" expanded="true" />
+                <element signature="e#1060#1061#0" expanded="true" />
+                <element signature="e#1098#1099#0" expanded="true" />
+                <element signature="e#1131#1132#0" expanded="true" />
+                <element signature="e#1160#1161#0" expanded="true" />
+                <element signature="e#1204#1205#0" expanded="true" />
+                <element signature="e#1240#1241#0" expanded="true" />
+                <element signature="e#1273#1274#0" expanded="true" />
+                <element signature="e#1302#1303#0" expanded="true" />
+                <element signature="e#1346#1347#0" expanded="true" />
+                <element signature="e#1382#1383#0" expanded="true" />
+                <element signature="e#1417#1418#0" expanded="true" />
+                <element signature="e#1448#1449#0" expanded="true" />
+                <element signature="e#1496#1497#0" expanded="true" />
+                <element signature="e#1536#1537#0" expanded="true" />
+                <element signature="e#1571#1572#0" expanded="true" />
+                <element signature="e#1602#1603#0" expanded="true" />
+                <element signature="e#1650#1651#0" expanded="true" />
+                <element signature="e#1690#1691#0" expanded="true" />
+                <element signature="e#1727#1728#0" expanded="true" />
+                <element signature="e#1760#1761#0" expanded="true" />
+                <element signature="e#1812#1813#0" expanded="true" />
+                <element signature="e#1856#1857#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppNotification.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+              <folding>
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#763#764#0" expanded="true" />
+                <element signature="e#809#810#0" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppActiveForeground.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+              <folding>
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppActiveBackground.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppComment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+              <folding>
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+                <element signature="e#828#829#0" expanded="true" />
+                <element signature="e#862#863#0" expanded="true" />
+                <element signature="e#892#893#0" expanded="true" />
+                <element signature="e#938#939#0" expanded="true" />
+                <element signature="e#976#977#0" expanded="true" />
+                <element signature="e#1010#1011#0" expanded="true" />
+                <element signature="e#1040#1041#0" expanded="true" />
+                <element signature="e#1086#1087#0" expanded="true" />
+                <element signature="e#1124#1125#0" expanded="true" />
+                <element signature="e#1156#1157#0" expanded="true" />
+                <element signature="e#1187#1188#0" expanded="true" />
+                <element signature="e#1232#1233#0" expanded="true" />
+                <element signature="e#1272#1273#0" expanded="true" />
+                <element signature="e#1308#1309#0" expanded="true" />
+                <element signature="e#1343#1344#0" expanded="true" />
+                <element signature="e#1396#1397#0" expanded="true" />
+                <element signature="e#1444#1445#0" expanded="true" />
+                <element signature="e#1479#1480#0" expanded="true" />
+                <element signature="e#1513#1514#0" expanded="true" />
+                <element signature="e#1564#1565#0" expanded="true" />
+                <element signature="e#1610#1611#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppFavorites.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+              <folding>
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppPraise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#809#810#0" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#888#889#0" expanded="true" />
+                <element signature="e#928#929#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/appclient/AppMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -18,20 +334,678 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppStart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppErrorLog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppDisplay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppNewsDetail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppLoading.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppAd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppNotification.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppActiveForeground.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppActiveBackground.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppComment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppFavorites.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppPraise.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wishhust/appclient/AppMain.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="logcollector" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="logcollector" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="110" />
-    <option name="y" value="55" />
+    <option name="x" value="298" />
+    <option name="y" value="57" />
     <option name="width" value="1350" />
     <option name="height" value="739" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="logcollector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="logcollector" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="logcollector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="logcollector" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="logcollector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="logcollector" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="logcollector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="logcollector" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="logcollector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="logcollector" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wishhust" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="logcollector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="logcollector" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wishhust" type="462c0819:PsiDirectoryNode" />
+              <item name="appclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566401780581" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace2\logcollector" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wishhust.appclient.AppMain" />
+      <module name="logcollector" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wishhust.appclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="927a912b-be98-4705-b076-7368349c8606" name="Default Changelist" comment="" />
+      <created>1566400083053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566400083053</updated>
+      <workItem from="1566400090494" duration="1662000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1662000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8017094" visible="true" weight="0.15204236" />
+      <window_info id="Structure" order="1" sideWeight="0.1982906" side_tool="true" visible="true" weight="0.15204236" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.33105803" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.34300342" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.28327644" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34017095" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.31316188" />
+      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.40530008" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/logcollector.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1163#1164#0" expanded="true" />
+            <element signature="e#1199#1200#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
+            <element signature="e#1256#1257#0" expanded="true" />
+            <element signature="e#1281#1282#0" expanded="true" />
+            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="e#1345#1346#0" expanded="true" />
+            <element signature="e#1373#1374#0" expanded="true" />
+            <element signature="e#1397#1398#0" expanded="true" />
+            <element signature="e#1431#1432#0" expanded="true" />
+            <element signature="e#1457#1458#0" expanded="true" />
+            <element signature="e#1486#1487#0" expanded="true" />
+            <element signature="e#1511#1512#0" expanded="true" />
+            <element signature="e#1547#1548#0" expanded="true" />
+            <element signature="e#1575#1576#0" expanded="true" />
+            <element signature="e#1604#1605#0" expanded="true" />
+            <element signature="e#1629#1630#0" expanded="true" />
+            <element signature="e#1665#1666#0" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+            <element signature="e#1722#1723#0" expanded="true" />
+            <element signature="e#1747#1748#0" expanded="true" />
+            <element signature="e#1783#1784#0" expanded="true" />
+            <element signature="e#1811#1812#0" expanded="true" />
+            <element signature="e#1840#1841#0" expanded="true" />
+            <element signature="e#1865#1866#0" expanded="true" />
+            <element signature="e#1901#1902#0" expanded="true" />
+            <element signature="e#1929#1930#0" expanded="true" />
+            <element signature="e#1958#1959#0" expanded="true" />
+            <element signature="e#1983#1984#0" expanded="true" />
+            <element signature="e#2019#2020#0" expanded="true" />
+            <element signature="e#2047#2048#0" expanded="true" />
+            <element signature="e#2076#2077#0" expanded="true" />
+            <element signature="e#2101#2102#0" expanded="true" />
+            <element signature="e#2137#2138#0" expanded="true" />
+            <element signature="e#2165#2166#0" expanded="true" />
+            <element signature="e#2193#2194#0" expanded="true" />
+            <element signature="e#2217#2218#0" expanded="true" />
+            <element signature="e#2251#2252#0" expanded="true" />
+            <element signature="e#2277#2278#0" expanded="true" />
+            <element signature="e#2306#2307#0" expanded="true" />
+            <element signature="e#2331#2332#0" expanded="true" />
+            <element signature="e#2367#2368#0" expanded="true" />
+            <element signature="e#2395#2396#0" expanded="true" />
+            <element signature="e#2423#2424#0" expanded="true" />
+            <element signature="e#2447#2448#0" expanded="true" />
+            <element signature="e#2481#2482#0" expanded="true" />
+            <element signature="e#2507#2508#0" expanded="true" />
+            <element signature="e#2536#2537#0" expanded="true" />
+            <element signature="e#2561#2562#0" expanded="true" />
+            <element signature="e#2597#2598#0" expanded="true" />
+            <element signature="e#2625#2626#0" expanded="true" />
+            <element signature="e#2654#2655#0" expanded="true" />
+            <element signature="e#2679#2680#0" expanded="true" />
+            <element signature="e#2715#2716#0" expanded="true" />
+            <element signature="e#2743#2744#0" expanded="true" />
+            <element signature="e#2772#2773#0" expanded="true" />
+            <element signature="e#2797#2798#0" expanded="true" />
+            <element signature="e#2833#2834#0" expanded="true" />
+            <element signature="e#2861#2862#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#1145#1146#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+            <element signature="e#1218#1219#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
+            <element signature="e#1288#1289#0" expanded="true" />
+            <element signature="e#1318#1319#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1402#1403#0" expanded="true" />
+            <element signature="e#1431#1432#0" expanded="true" />
+            <element signature="e#1456#1457#0" expanded="true" />
+            <element signature="e#1492#1493#0" expanded="true" />
+            <element signature="e#1520#1521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppErrorLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+          <folding>
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#1045#1046#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppNewsDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+            <element signature="e#1103#1104#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1169#1170#0" expanded="true" />
+            <element signature="e#1217#1218#0" expanded="true" />
+            <element signature="e#1257#1258#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1333#1334#0" expanded="true" />
+            <element signature="e#1391#1392#0" expanded="true" />
+            <element signature="e#1441#1442#0" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#1515#1516#0" expanded="true" />
+            <element signature="e#1571#1572#0" expanded="true" />
+            <element signature="e#1619#1620#0" expanded="true" />
+            <element signature="e#1651#1652#0" expanded="true" />
+            <element signature="e#1679#1680#0" expanded="true" />
+            <element signature="e#1721#1722#0" expanded="true" />
+            <element signature="e#1755#1756#0" expanded="true" />
+            <element signature="e#1790#1791#0" expanded="true" />
+            <element signature="e#1821#1822#0" expanded="true" />
+            <element signature="e#1869#1870#0" expanded="true" />
+            <element signature="e#1909#1910#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppLoading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="e#1278#1279#0" expanded="true" />
+            <element signature="e#1309#1310#0" expanded="true" />
+            <element signature="e#1336#1337#0" expanded="true" />
+            <element signature="e#1376#1377#0" expanded="true" />
+            <element signature="e#1408#1409#0" expanded="true" />
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1468#1469#0" expanded="true" />
+            <element signature="e#1510#1511#0" expanded="true" />
+            <element signature="e#1544#1545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppAd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+          <folding>
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+            <element signature="e#1098#1099#0" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1160#1161#0" expanded="true" />
+            <element signature="e#1204#1205#0" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="e#1273#1274#0" expanded="true" />
+            <element signature="e#1302#1303#0" expanded="true" />
+            <element signature="e#1346#1347#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1417#1418#0" expanded="true" />
+            <element signature="e#1448#1449#0" expanded="true" />
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#1536#1537#0" expanded="true" />
+            <element signature="e#1571#1572#0" expanded="true" />
+            <element signature="e#1602#1603#0" expanded="true" />
+            <element signature="e#1650#1651#0" expanded="true" />
+            <element signature="e#1690#1691#0" expanded="true" />
+            <element signature="e#1727#1728#0" expanded="true" />
+            <element signature="e#1760#1761#0" expanded="true" />
+            <element signature="e#1812#1813#0" expanded="true" />
+            <element signature="e#1856#1857#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppNotification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppActiveForeground.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppActiveBackground.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#828#829#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#976#977#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+            <element signature="e#1156#1157#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1232#1233#0" expanded="true" />
+            <element signature="e#1272#1273#0" expanded="true" />
+            <element signature="e#1308#1309#0" expanded="true" />
+            <element signature="e#1343#1344#0" expanded="true" />
+            <element signature="e#1396#1397#0" expanded="true" />
+            <element signature="e#1444#1445#0" expanded="true" />
+            <element signature="e#1479#1480#0" expanded="true" />
+            <element signature="e#1513#1514#0" expanded="true" />
+            <element signature="e#1564#1565#0" expanded="true" />
+            <element signature="e#1610#1611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppFavorites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/bean/AppPraise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wishhust/appclient/AppMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
